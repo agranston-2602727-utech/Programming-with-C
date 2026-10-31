@@ -1,0 +1,3 @@
+A small convenience store records its sales for 7 days. Each day’s sales amount is entered 
+in dollars. Write a program to input the sales amount for each of the 7 days. Calculate and 
+display the total weekly sales.
