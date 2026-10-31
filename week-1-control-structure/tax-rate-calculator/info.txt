@@ -1,0 +1,4 @@
+A shop wants to calculate the total price of an item including tax. The user enters the price of an item. 
+If the price is less than $100, a tax rate of 5% is applied. Otherwise, a 
+tax rate of 10% is applied. The program should calculate the total price including tax and 
+display it

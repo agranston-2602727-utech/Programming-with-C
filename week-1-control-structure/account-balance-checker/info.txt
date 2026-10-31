@@ -1,0 +1,4 @@
+A banking application must verify a withdrawal request. 
+The account balance must be greater than or equal to the withdrawal amount for the transaction to proceed. 
+If the balance is sufficient, the program should subtract the withdrawal amount from the balance and display the remaining balance. 
+If the balance is insufficient, it should display an error message. 

@@ -1,0 +1,1 @@
+A website asks a user to enter their age to verify access. If the user is 18 years or older, the program should display “Access Granted.” Otherwise, it should display “Access Denied.” Write a program that reads the age from input and outputs the appropriate message. 

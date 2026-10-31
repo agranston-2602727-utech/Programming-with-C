@@ -1,0 +1,4 @@
+Write a C program that will ask the user for three numbers. 
+It will print the largest and smallest numbers. 
+If two numbers are equal it must state the numbers. 
+If the average of the first two numbers is greater than the third numbers print “We have a winner!”**

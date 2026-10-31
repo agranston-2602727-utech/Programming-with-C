@@ -1,0 +1,15 @@
+PROGRAM CustomerRecords
+
+// ========================================
+// 1. VARIABLE DELARATIONS 
+// ========================================
+
+CONSTANT customer_id
+DECLARE customer_name
+DECLARE customer_hours
+DECLARE
+DECLARE
+DECLARE
+DECLARE
+DECLARE
+DECLARE

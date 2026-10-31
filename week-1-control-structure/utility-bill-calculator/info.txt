@@ -1,0 +1,4 @@
+A utility company calculates the electricity bill based on units consumed. The first 100 
+units cost $0.50 per unit, the next 100 units cost $0.75 per unit, and any units above 200 
+cost $1 per unit. Write a program that reads the number of units consumed from input, 
+calculates the total bill according to these rules, and displays the total amount.

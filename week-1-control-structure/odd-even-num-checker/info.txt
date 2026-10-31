@@ -1,0 +1,3 @@
+Write a program that reads an integer from input and determines whether the number is 
+even or odd. Additionally, the program should check if the number is divisible by 5. 
+Finally, display the number along with its even/odd status and whether it is divisible by 5

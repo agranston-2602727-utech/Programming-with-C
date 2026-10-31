@@ -1,0 +1,1 @@
+Write a program that reads a number from input and determines whether it is positive, negative, or zero. Display a message indicating the sign of the number. 
