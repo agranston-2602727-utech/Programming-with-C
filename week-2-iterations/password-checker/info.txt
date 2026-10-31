@@ -1,0 +1,3 @@
+A system requires the user to enter a password. The correct password is “secure123”. 
+Write a program that will repeatedly prompt the user for the password. It should only stop 
+when the correct password is entered. Display a success message once access is granted.
