@@ -1,0 +1,2 @@
+A company employs 40 workers. Each worker’s weekly salary is entered. 
+Develop a solution that will input each employee’s salary. Calculate the total payroll cost and count how many employees earn more than $80,000.00.
