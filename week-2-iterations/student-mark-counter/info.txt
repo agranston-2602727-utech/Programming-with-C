@@ -1,0 +1,7 @@
+A teacher enters student marks one at a time. 
+Entry stops when -1 is entered. 
+Valid marks range from 0 to 100.
+Write a program to
+a. accept marks until -1 is entered. 
+b. Count how many valid marks were entered.
+c. Calculate and display the average mar
