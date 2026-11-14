@@ -21,6 +21,6 @@ int main (void) {
   }
   
   string name = get_string("What is your name? ");
-  printf("Hello %s\n", name);
+  printf("Hello %s %f\n", name, average);
 }
 //Installed Cmake || sudo apt install cmake
